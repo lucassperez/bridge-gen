@@ -6,7 +6,7 @@ Certainly more reliable than youy average teammates.
 ## Installation
 Clone repository:
 ```bash
-$ git clone git@github.com:lucassperez/bridge-gen.git
+$ git clone https://github.com/lucassperez/bridge-gen.git
 $ cd bridge-gen
 ```
 Start server:
