@@ -1,0 +1,36 @@
+.mainContainer {
+  text-align: center;
+}
+
+.buttonArea button {
+  margin: 0 25px 15px 0;
+}
+
+.impsAccumulator {
+  height: 16px;
+}
+
+/* Table styling */
+table {
+  -webkit-user-select: none;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  margin: 20px auto 0;
+}
+
+table td, table th {
+  text-align: center;
+  border: 2px solid rgb(165, 180, 178);
+  padding: 7px;
+}
+
+table tr { background-color: rgb(204, 203, 152); }
+table tr:hover { background-color: rgb(198, 218, 223); }
+
+table th {
+  background-color: rgb(6, 116, 25);
+  color: white;
+  font-weight: normal;
+  padding-bottom: 12px;
+  padding-top: 12px;
+}
