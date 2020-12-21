@@ -1,5 +1,5 @@
 # Random Bridge Results Generator
-Certainly more reliable than youy average teammates.
+Certainly more reliable than your average teammates.
 
 ---
 
