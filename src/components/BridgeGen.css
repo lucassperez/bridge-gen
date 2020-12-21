@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+h4 {
+  font-weight: normal;
+  font-style: italic;
+}
+
 .buttonArea button {
   margin: 0 25px 15px 0;
 }

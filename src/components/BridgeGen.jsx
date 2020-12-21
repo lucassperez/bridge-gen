@@ -81,8 +81,7 @@ function BridgeGen () {
     setImpAccumulator(0);
   }
   return (
-    <div className="mainContainer">
-      <h2>Bridge Results Generator</h2>
+    <div>
       <div className="buttonArea">
         <button onClick={() => handleGenerate()}>Generate!</button>
         <button onClick={() => handleReset()}>Clear Table</button>
