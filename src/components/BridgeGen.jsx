@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
 import './BridgeGen.css';
+import React, { useState } from 'react'
 import ResultsTable from './ResultsTable';
 
 import calculateScore from './resultsUtils/calculateScore';
