@@ -87,7 +87,7 @@ function BridgeGen () {
         <button onClick={() => handleReset()}>Clear Table</button>
         <br/>
         <div className="impsAccumulator">
-          {impsAccumulator ? <span>Total de imps: <b>{impsAccumulator}</b></span> : ''}
+          {results.length ? <span>Total de imps: <b>{impsAccumulator}</b></span> : ''}
         </div>
       </div>
       <div className="resultsArea">
