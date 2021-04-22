@@ -14,3 +14,5 @@ Start server:
 $ yarn start
 ```
 Go to localhost:3000 (or the chosen port) and have fun!
+
+Alternatively, you can go to https://lucassperez.github.io/bridge-gen/ and also have fun!
